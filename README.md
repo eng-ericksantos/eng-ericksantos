@@ -2,11 +2,11 @@
 
 🎓 Engenheiro da Computação & Software | 💼 Desenvolvedor Sênior Fullstack
 
-👨‍💻 Especialista em Frontend com Angular e TypeScript  
-🚀 Backend sólido com Java, Spring Framework e SQL  
-🔧 Experiência também com Node.js, Vue.js, REST APIs, JWT, Auth, Ionic, Kotlin, Docker
-🌍 Interesse contínuo por arquitetura limpa, CI/CD, testes e escalabilidade
-👨‍👩‍👧 Pai dedicado e entusiasta da tecnologia como ferramenta de transformação
+- 👨‍💻 Especialista em Frontend com Angular e TypeScript  
+- 🚀 Backend sólido com Java, Spring Framework e SQL  
+- 🔧 Experiência também com Node.js, Vue.js, REST APIs, JWT, Auth, Ionic, Kotlin, Docker
+- 🌍 Interesse contínuo por arquitetura limpa, CI/CD, testes e escalabilidade
+- 👨‍👩‍👧 Pai dedicado e entusiasta da tecnologia como ferramenta de transformação
 
 🌱 Sempre aprendendo novas tecnologias e boas práticas de arquitetura
 
