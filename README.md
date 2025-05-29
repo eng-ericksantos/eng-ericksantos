@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Erick A. dos Santos
+# 👋 Olá, eu sou o Erick !
 
 🎓 Engenheiro da Computação & Software | 💼 Desenvolvedor Sênior Fullstack
 
