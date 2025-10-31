@@ -31,13 +31,14 @@
 ![SCSS](https://img.shields.io/badge/-SCSS-CC6699?style=flat&logo=sass)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
 ![NPM](https://img.shields.io/badge/-NPM-CB3837?style=flat&logo=npm)
 ![PNPM](https://img.shields.io/badge/-PNPM-F69220?style=flat&logo=pnpm&logoColor=white)
 ![PM2](https://img.shields.io/badge/-PM2-2B037A?style=flat&logo=pm2&logoColor=white)
 ![Microfrontends](https://img.shields.io/badge/-Microfrontends-1A73E8?style=flat&logo=webpack&logoColor=white)
-![Microsserviços](https://img.shields.io/badge/-Microsserviços-0A66C2?style=flat&logo=microgenetics&logoColor=white)
+![Microsserviços](https://img.shields.io/badge/-Microsserviços-0A66C2?style=flat&logo=cloudsmith&logoColor=white)
 
 ## 📊 Estatísticas
 
