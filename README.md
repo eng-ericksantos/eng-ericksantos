@@ -42,7 +42,7 @@
 
 ## 📊 Estatísticas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eng-ericksantos&show_icons=true&theme=dark&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eng-ericksantos&layout=compact&theme=dark&hide_border=true)
 
 ---
 
